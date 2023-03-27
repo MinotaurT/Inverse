@@ -1,0 +1,377 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.1.1 glTF Exporter 1.3.1"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 6720,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 1674,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.840627193, 0.00747203827, -0.395368636 ],
+			"max": [ 0.816835821, 0.378825366, 0.304219961 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 1674,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 1674,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 1674,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 1674,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 551292,
+			"type": "SCALAR",
+			"componentType": 5125
+		},
+		{
+			"bufferView": 7,
+			"count": 103455,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.620694935, 0.354021907, -0.185772032 ],
+			"max": [ 0.623413324, 0.55779022, 0.0126426117 ]
+		},
+		{
+			"bufferView": 8,
+			"count": 103455,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 103455,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 103455,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 103455,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 3248544,
+			"type": "SCALAR",
+			"componentType": 5125
+		},
+		{
+			"bufferView": 13,
+			"count": 584679,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.842604101, 0.166622788, -0.415902019 ],
+			"max": [ 0.81797117, 0.690933645, 0.453409195 ]
+		},
+		{
+			"bufferView": 14,
+			"count": 584679,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 15,
+			"count": 584679,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 584679,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 584679,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "Sofa4.bin",
+			"byteLength": 53842032
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 13440,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 20088,
+			"byteOffset": 13440,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 20088,
+			"byteOffset": 33528,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 26784,
+			"byteOffset": 53616,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 13392,
+			"byteOffset": 80400,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 13392,
+			"byteOffset": 93792,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2205168,
+			"byteOffset": 107184,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1241460,
+			"byteOffset": 2312352,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1241460,
+			"byteOffset": 3553812,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 1655280,
+			"byteOffset": 4795272,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 827640,
+			"byteOffset": 6450552,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 827640,
+			"byteOffset": 7278192,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 12994176,
+			"byteOffset": 8105832,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7016148,
+			"byteOffset": 21100008,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 7016148,
+			"byteOffset": 28116156,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9354864,
+			"byteOffset": 35132304,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4677432,
+			"byteOffset": 44487168,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4677432,
+			"byteOffset": 49164600,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "Fabric_2_Sofa4_BaseColor.png"
+		},
+		{
+			"uri": "Fabric_2_Sofa4_MetallicRoughness.png"
+		},
+		{
+			"uri": "Fabric_3_Sofa4_BaseColor.png"
+		}
+	],
+	"materials": [
+		{
+			"name": "Metal_2",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 0.00699541019, 0.00604883302, 0.00560539123, 1 ],
+				"metallicFactor": 0.0862745121,
+				"roughnessFactor": 0.0823529437
+			}
+		},
+		{
+			"name": "Fabric_2_Sofa4",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0,
+					"texCoord": 1
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1,
+					"texCoord": 1
+				}
+			}
+		},
+		{
+			"name": "Fabric_3_Sofa4",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 2,
+					"texCoord": 1
+				},
+				"metallicFactor": 0.0313725509,
+				"roughnessFactor": 0.941176534
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "Sofa4",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 1
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 13,
+						"NORMAL": 14,
+						"TANGENT": 15,
+						"TEXCOORD_0": 16,
+						"TEXCOORD_1": 17
+					},
+					"indices": 12,
+					"material": 2
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"name": "Fabric_2_Sofa4_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "Fabric_2_Sofa4_MetallicRoughness",
+			"minFilter": 9987,
+			"magFilter": 9729
+		},
+		{
+			"name": "Fabric_3_Sofa4_BaseColor",
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "Fabric_2_Sofa4_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "Fabric_2_Sofa4_MetallicRoughness",
+			"sampler": 1,
+			"source": 1
+		},
+		{
+			"name": "Fabric_3_Sofa4_BaseColor",
+			"sampler": 2,
+			"source": 2
+		}
+	]
+}
